@@ -37,3 +37,4 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+/out/production/java-programming-masterclass/Hello.class
